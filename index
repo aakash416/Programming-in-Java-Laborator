@@ -1,0 +1,49 @@
+1	Handling various data types 
+2	Type casting 
+3	Arrays – 1D and 2 D 
+4	Various control structures 
+5	Various decision structures
+6	Recursion
+7	Method Overloading by passing objects as arguments 
+8	Constructor Overloading by passing objects as arguments 
+9	Various access control and usage of static, final and finalize ( ) 
+10	Command line arguments 
+11	Various types of inheritance by applying various access controls to its data members and methods 
+12	Method overriding 
+13	Abstract class 
+14	Nested class 
+15	Constructor chaining 
+16	Importing classes from user defined package and creating packages using access protection
+17	Interfaces, nested interfaces and use of extending interfaces
+18	Exception Handling - using predefined exception
+19	Exception Handling - creating user defined exceptions
+20	Multithreading by extending Thread Class
+21	Multithreading by implementing Runnable Interface
+22	Thread life cycle
+23	Applet life cycle
+24	Applet for configuring Applets by passing parameters
+25	Event Handling
+26	Reading and writing from a particular file
+27	Database connectivity for various DDL and DML operations
+28	String class and its methods
+29	StringBuffer class and its methods
+30	Without using inbuilt features of Java implement following concepts related to Data Structures:
+a	Stack
+b	Queue
+c	LinkList
+d	Quicksort
+31	Implement following concepts related to Digital Electronics:
+a	Octal to Hexadecimal ,Decimal, Binary
+b	Convert Gray code to Binary
+c	Half Adder
+d	Full Adder
+32	Implement following concepts related to Operating Systems: 
+a	First come first serve scheduling algorithm
+b	Shortest job first 
+c	Condition for Occurrence of deadlock
+d	 Multithreading approach to do Matrix multiplication
+33	Implement following concepts related to Computer Networks:
+a	Sliding window sender
+b	Sliding window receiver 
+c	To create a program for the implementation of ARP(Address Resolution Protocol Protocol)
+d	To create a program for the implementation of RARP (Reverse Address Resolution Protocol)
